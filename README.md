@@ -5,4 +5,4 @@ A script to fetch the table of periodic reports from the Strefa Inwestorów webs
 ## How to run
 ```bash
 pip install -r requirements.txt
-python scraper.py
+python main.py
