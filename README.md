@@ -1,4 +1,4 @@
-# GPW Reports Scraper
+# Stocks Reports Scraper
 
 A script to fetch the table of periodic reports from the Strefa Inwestorów website.
 
